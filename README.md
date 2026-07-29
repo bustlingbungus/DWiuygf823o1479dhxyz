@@ -1,6 +1,5 @@
-# Parent Lab MEA
+# Spike Correlation Value Extraction
 
-### Pages: 
-- [AutomatedSTTC](https://github.com/bustlingbungus/ParentLabMEA/tree/AutomatedSTTC)
+[Return to main](https://github.com/bustlingbungus/ParentLabMEA)
 
-Placeholder readme
+Placeholder
