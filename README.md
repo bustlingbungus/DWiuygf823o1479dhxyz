@@ -1,3 +1,5 @@
-# Parent Lab MEA
+# Automated STTC
 
-Placeholder readme
+[Return to main](https://github.com/bustlingbungus/ParentLabMEA)
+
+Placeholder
