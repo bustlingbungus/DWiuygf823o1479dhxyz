@@ -1,11 +1,1 @@
-SpikeCorrelationValueExtraction/.vscode/*
-SpikeCorrelationValueExtraction/build/*
-
-SpikeCorrelationFilesToSpreadsheet/.vscode/*
-SpikeCorrelationFilesToSpreadsheet/build/*
-
-PowerSpectrumAnalysis/.vscode/*
-PowerSpectrumAnalysis/build/*
-
-AutomatedSTTC/.vscode/*
-AutomatedSTTC/build/*
+.vscode/*
